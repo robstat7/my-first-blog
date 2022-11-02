@@ -47,7 +47,7 @@
 
 .post > .date,
 .post > .actions {
-    float: right;
+    float: left;
 }
 
 .btn-secondary,
